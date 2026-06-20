@@ -1,4 +1,4 @@
-Styled Portfolio Website
+**Styled Portfolio Website**
 
 <!-- Project Overview -->
 
@@ -30,13 +30,13 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-Class Selector
+**Class Selector**
 
 .skills-list {
     display: flex;
 }
 
-ID Selector
+**ID Selector**
 
 #about {
     /* section styling */
@@ -74,7 +74,7 @@ nav {
     justify-content: center;
 }
 
-<!-- Benefits: -->
+**<!-- Benefits: -->**
 •	Better alignment
 •	Responsive layout
 •	Easy spacing management
